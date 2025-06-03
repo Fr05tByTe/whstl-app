@@ -1,0 +1,1 @@
+// profileStore.ts - placeholder

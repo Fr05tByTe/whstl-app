@@ -1,0 +1,1 @@
+// CheckInTimerModal.tsx - placeholder

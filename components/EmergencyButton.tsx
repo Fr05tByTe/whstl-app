@@ -1,0 +1,1 @@
+// EmergencyButton.tsx - placeholder
